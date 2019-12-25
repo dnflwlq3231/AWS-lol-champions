@@ -1,8 +1,0 @@
-{
-    "accessKeyId" : "AKIAS4HRBXI4SKYDJQND",
-    "secretAccessKey": "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",
-    "region": "ap-northeast-2",
-    "api": {
-        "invokeUrl": "https://kubw9cltna.execute-api.ap-northeast-2.amazonaws.com/champion"
-    }
-}
